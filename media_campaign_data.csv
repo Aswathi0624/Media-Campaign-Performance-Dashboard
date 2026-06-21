@@ -1,0 +1,200 @@
+Campaign_ID,Campaign_Type,Target_Audience,Duration,Channel_Used,Impressions,Clicks,Leads,Conversions,Revenue,Acquisition_Cost,ROI,Customer_Segment,Date
+NY-CMP-1000,Social Media,College Students,21,"WhatsApp, YouTube",57804,6156,3616,2355,1867515,111.03,6.14,College Students,29-04-2025
+NY-CMP-1001,Paid Ads,Tier 2 City Customers,18,YouTube,91801,3321,1971,1357,1046247,180.83,3.26,College Students,6/4/2025
+NY-CMP-1002,Influencer,Youth,23,"WhatsApp, Google, YouTube",15536,2182,952,755,197055,90.6,1.88,College Students,14-01-2025
+NY-CMP-1003,Email,Working Women,18,"YouTube, Facebook, Instagram",88114,8413,2231,947,376906,249.07,0.6,College Students,4/6/2025
+NY-CMP-1004,Paid Ads,College Students,10,"Facebook, Instagram",96871,3743,2060,1258,518296,228.6,0.8,Tier 2 City Customers,29-12-2024
+NY-CMP-1005,Influencer,Youth,26,"Email, Instagram",83919,7497,2061,1555,877020,137.79,3.09,Premium Shoppers,23-09-2024
+NY-CMP-1006,Paid Ads,College Students,21,"YouTube, Google, WhatsApp",82267,5534,1873,1386,633402,210.17,1.17,Youth,1/9/2024
+NY-CMP-1007,Social Media,Working Women,6,"Instagram, WhatsApp, Google",32482,2665,1488,925,326525,147.29,1.4,Tier 2 City Customers,31-05-2025
+NY-CMP-1008,Influencer,Premium Shoppers,27,"Facebook, WhatsApp, Email",73813,8680,5031,2551,1058665,87.74,3.73,Tier 2 City Customers,24-03-2025
+NY-CMP-1009,Social Media,College Students,11,Email,88895,6284,1600,858,603174,269.82,1.61,Youth,29-04-2025
+NY-CMP-1010,SEO,Working Women,5,"Google, Instagram",59141,1556,580,221,121550,357.66,0.54,Working Women,26-10-2024
+NY-CMP-1011,SEO,Youth,7,"Facebook, YouTube",39696,5623,1136,661,286874,163.52,1.65,Premium Shoppers,21-12-2024
+NY-CMP-1012,Email,Youth,29,"Email, Instagram, Facebook",20080,570,258,183,128466,462.62,0.52,Working Women,30-09-2024
+NY-CMP-1013,SEO,Youth,14,Email,96303,3749,1785,940,441800,282.05,0.67,Premium Shoppers,29-10-2024
+NY-CMP-1014,Paid Ads,Premium Shoppers,5,Instagram,38072,2591,1542,769,240697,369.75,-0.15,College Students,6/7/2024
+NY-CMP-1015,Paid Ads,Working Women,23,"Facebook, Instagram, Email",28714,1511,441,158,33654,1648.61,-0.87,Premium Shoppers,6/10/2024
+NY-CMP-1016,SEO,College Students,27,WhatsApp,73474,4886,2344,1055,263750,272.28,-0.08,College Students,18-12-2024
+NY-CMP-1017,Paid Ads,Premium Shoppers,28,"Google, YouTube, Instagram",57060,1659,928,346,187186,448.86,0.21,Premium Shoppers,19-04-2025
+NY-CMP-1018,SEO,Tier 2 City Customers,7,WhatsApp,49784,1510,594,440,261800,115.42,4.16,Working Women,18-01-2025
+NY-CMP-1019,Paid Ads,College Students,21,Instagram,55317,7847,1736,1079,715377,174.65,2.8,Tier 2 City Customers,16-02-2025
+NY-CMP-1020,Paid Ads,Premium Shoppers,27,"Google, YouTube",10678,1217,524,163,111981,1124.19,-0.39,Youth,27-08-2024
+NY-CMP-1021,SEO,Working Women,22,"Instagram, YouTube, Google",27990,3508,761,385,155540,516.25,-0.22,Youth,30-01-2025
+NY-CMP-1022,Email,Working Women,9,"WhatsApp, YouTube",74423,3139,1622,1149,629652,89.52,5.12,Premium Shoppers,3/2/2025
+NY-CMP-1023,SEO,Working Women,9,"Google, Email, WhatsApp",77708,4985,1363,916,632040,120.36,4.73,Tier 2 City Customers,7/5/2025
+NY-CMP-1024,SEO,Working Women,21,"YouTube, Facebook",89970,10679,4140,3003,1537536,69.87,6.33,Working Women,10/3/2025
+NY-CMP-1025,SEO,Working Women,25,"Google, Facebook",96295,8911,2116,872,441232,148.17,2.41,Tier 2 City Customers,17-11-2024
+NY-CMP-1026,Influencer,Working Women,29,"Google, Instagram, WhatsApp",59234,4994,1531,892,226568,270.76,-0.06,College Students,16-10-2024
+NY-CMP-1027,Social Media,Working Women,15,YouTube,74702,10110,5298,2481,1220652,49.62,8.91,Premium Shoppers,10/2/2025
+NY-CMP-1028,Paid Ads,Youth,15,"Instagram, Google, YouTube",26353,3943,1879,746,458044,214.56,1.86,College Students,30-03-2025
+NY-CMP-1029,Email,Youth,26,"WhatsApp, Instagram, Email",16978,1079,372,164,56908,1784.37,-0.81,Youth,24-07-2024
+NY-CMP-1030,SEO,College Students,18,YouTube,92924,9525,4340,2242,652422,27.28,9.67,Youth,17-03-2025
+NY-CMP-1031,SEO,Working Women,7,"Email, Facebook, WhatsApp",96549,13114,3791,1202,366610,74.34,3.1,Premium Shoppers,4/6/2025
+NY-CMP-1032,Social Media,Premium Shoppers,17,"Instagram, WhatsApp, Facebook",72628,6488,1923,1181,243286,231.17,-0.11,Premium Shoppers,9/5/2025
+NY-CMP-1033,Social Media,Youth,19,"WhatsApp, Google, YouTube",61270,3309,1588,582,346872,320.86,0.86,Youth,31-12-2024
+NY-CMP-1034,SEO,College Students,22,"Email, Facebook, YouTube",29199,1719,704,274,101928,727.09,-0.49,Working Women,5/7/2024
+NY-CMP-1035,Paid Ads,College Students,11,"Google, Facebook, WhatsApp",19637,478,236,173,108471,498.5,0.26,Tier 2 City Customers,12/10/2024
+NY-CMP-1036,Influencer,Premium Shoppers,19,"Facebook, Instagram, Email",23746,1503,747,458,101218,229.15,-0.04,Tier 2 City Customers,7/12/2024
+NY-CMP-1037,Paid Ads,Tier 2 City Customers,6,"Facebook, YouTube, Email",53926,7219,1902,1105,339235,221.64,0.39,Youth,18-10-2024
+NY-CMP-1038,Influencer,Premium Shoppers,6,Email,35806,2631,999,365,198925,362.79,0.5,Youth,22-03-2025
+NY-CMP-1039,Email,Premium Shoppers,6,"Facebook, YouTube, Instagram",31729,2418,773,403,207142,400.55,0.28,Youth,21-10-2024
+NY-CMP-1040,Influencer,Premium Shoppers,29,Email,10338,864,412,299,127075,438.17,-0.03,Tier 2 City Customers,15-09-2024
+NY-CMP-1041,Paid Ads,Tier 2 City Customers,7,"Instagram, WhatsApp, Facebook",96095,12738,6327,2845,631590,56.36,2.94,College Students,23-03-2025
+NY-CMP-1042,Influencer,Premium Shoppers,7,"WhatsApp, YouTube, Instagram",96219,11237,5367,3599,910547,68.47,2.69,Working Women,31-08-2024
+NY-CMP-1043,Influencer,Premium Shoppers,30,YouTube,37002,2753,979,780,371280,123.02,2.87,College Students,29-05-2025
+NY-CMP-1044,SEO,College Students,29,"Google, Instagram",65776,4977,1606,901,370311,74.44,4.52,Tier 2 City Customers,26-04-2025
+NY-CMP-1045,Social Media,Tier 2 City Customers,12,WhatsApp,57520,3932,2101,1431,1027458,128.93,4.57,Premium Shoppers,24-08-2024
+NY-CMP-1046,Email,Working Women,24,"Facebook, WhatsApp, Google",52752,5831,3299,2095,509085,139.77,0.74,Youth,5/8/2024
+NY-CMP-1047,Social Media,College Students,5,YouTube,14944,1268,482,318,104304,319.84,0.03,Working Women,2/4/2025
+NY-CMP-1048,Email,Youth,22,Instagram,53290,3905,1034,535,344540,131.77,3.89,Working Women,22-08-2024
+NY-CMP-1049,SEO,Working Women,14,Google,41687,2215,911,568,358408,277.67,1.27,Working Women,4/3/2025
+NY-CMP-1050,Paid Ads,Working Women,30,"WhatsApp, Facebook",67932,9449,5194,3230,839800,33.28,6.81,Working Women,4/11/2024
+NY-CMP-1051,Email,Tier 2 City Customers,16,"Google, YouTube",78991,6551,3460,2657,810385,49.89,5.11,Premium Shoppers,16-04-2025
+NY-CMP-1052,Social Media,Working Women,12,"Facebook, Instagram, WhatsApp",97822,5691,2022,1271,579576,210.15,1.17,Premium Shoppers,15-11-2024
+NY-CMP-1053,Email,Tier 2 City Customers,14,"YouTube, Facebook, Email",77985,6461,3033,1379,995638,180.5,3,Premium Shoppers,7/8/2024
+NY-CMP-1054,Paid Ads,Working Women,12,"Google, YouTube, Instagram",82079,2124,1057,472,232224,620.82,-0.21,College Students,13-06-2025
+NY-CMP-1055,Paid Ads,Tier 2 City Customers,16,Instagram,66781,8932,3662,1790,721370,150.42,1.68,Premium Shoppers,18-03-2025
+NY-CMP-1056,Influencer,Working Women,11,"Email, Facebook",72001,8840,2425,1271,846486,54.74,11.17,Tier 2 City Customers,27-07-2024
+NY-CMP-1057,Email,Youth,27,"WhatsApp, YouTube",43454,5590,1836,1046,343088,182.35,0.8,Tier 2 City Customers,3/12/2024
+NY-CMP-1058,Influencer,College Students,28,"Instagram, Google",24558,1700,671,326,235698,189.39,2.82,Tier 2 City Customers,13-02-2025
+NY-CMP-1059,Email,Tier 2 City Customers,12,"Instagram, Email, YouTube",51784,3169,1762,1042,803382,141.09,4.46,Tier 2 City Customers,11/3/2025
+NY-CMP-1060,SEO,Tier 2 City Customers,12,"YouTube, Facebook, Google",61841,6086,2165,1542,1201218,38.2,19.39,College Students,10/1/2025
+NY-CMP-1061,SEO,Youth,5,Email,80683,2154,985,786,248376,244.18,0.29,Youth,30-04-2025
+NY-CMP-1062,Email,Premium Shoppers,20,"Facebook, Instagram",82701,4194,1345,869,323268,230.37,0.61,Tier 2 City Customers,1/9/2024
+NY-CMP-1063,SEO,Youth,8,WhatsApp,80457,9646,2336,1659,643692,125.03,2.1,College Students,24-02-2025
+NY-CMP-1064,SEO,College Students,13,"YouTube, WhatsApp",34565,819,304,211,137150,1099.71,-0.41,Youth,28-05-2025
+NY-CMP-1065,Email,Working Women,25,"YouTube, Facebook, Google",41740,1039,561,322,154882,328.9,0.46,Tier 2 City Customers,29-04-2025
+NY-CMP-1066,Social Media,College Students,29,"Instagram, Google",28052,1240,513,377,166634,221.3,1,Tier 2 City Customers,17-08-2024
+NY-CMP-1067,Social Media,Youth,6,"WhatsApp, Facebook, YouTube",36769,2948,797,370,237170,576.24,0.11,Premium Shoppers,6/2/2025
+NY-CMP-1068,Email,College Students,26,WhatsApp,59910,3712,1431,951,427950,303.73,0.48,Working Women,25-03-2025
+NY-CMP-1069,Social Media,Working Women,20,"Google, WhatsApp",51907,1717,484,275,137225,316.3,0.58,Premium Shoppers,12/7/2024
+NY-CMP-1070,Email,Working Women,21,"Email, Instagram",54847,7764,3946,1326,502554,50.86,6.45,Tier 2 City Customers,26-03-2025
+NY-CMP-1071,Social Media,Working Women,11,Google,68542,8178,3828,1207,280024,179.89,0.29,Tier 2 City Customers,23-12-2024
+NY-CMP-1072,Influencer,College Students,17,"Google, YouTube",73165,5735,2225,1582,1170680,143.08,4.17,College Students,27-12-2024
+NY-CMP-1073,Email,Working Women,17,"Instagram, YouTube",26416,1545,401,226,68478,395.28,-0.23,College Students,15-09-2024
+NY-CMP-1074,Email,Tier 2 City Customers,11,"WhatsApp, Email, Google",97611,7838,2476,1741,541451,164.53,0.89,Working Women,29-08-2024
+NY-CMP-1075,Email,Premium Shoppers,29,YouTube,48871,6658,3972,2058,1636110,133.98,4.93,Working Women,14-11-2024
+NY-CMP-1076,Influencer,Tier 2 City Customers,24,"Google, Facebook, Instagram",74794,6057,1939,1470,799680,100.41,4.42,Youth,7/7/2024
+NY-CMP-1077,Social Media,Premium Shoppers,13,"Instagram, YouTube, WhatsApp",37745,1091,361,114,45030,1000.73,-0.61,Working Women,23-02-2025
+NY-CMP-1078,Email,Working Women,26,"Instagram, Facebook, Google",41410,905,449,156,75504,1252.69,-0.61,Premium Shoppers,20-07-2024
+NY-CMP-1079,Paid Ads,Premium Shoppers,17,"Instagram, Email, YouTube",30448,4531,1041,767,546871,315.83,1.26,Premium Shoppers,28-08-2024
+NY-CMP-1080,Email,Working Women,6,"Email, Google",79031,7614,1912,1166,719422,87.2,6.08,Youth,9/3/2025
+NY-CMP-1081,Social Media,Youth,12,"Email, Instagram, WhatsApp",69794,3864,1627,923,318435,271.48,0.27,Working Women,15-01-2025
+NY-CMP-1082,Social Media,Tier 2 City Customers,11,Google,10613,1093,468,344,73272,693.71,-0.69,Working Women,9/5/2025
+NY-CMP-1083,SEO,Youth,9,"WhatsApp, Facebook, Google",14824,1848,713,229,111294,542.97,-0.1,Premium Shoppers,11/6/2025
+NY-CMP-1084,Influencer,Tier 2 City Customers,22,WhatsApp,38900,4362,1416,1056,291456,212.22,0.3,College Students,6/11/2024
+NY-CMP-1085,Paid Ads,Youth,10,"Email, WhatsApp, Facebook",27040,1352,274,153,42075,460.92,-0.4,Premium Shoppers,7/6/2025
+NY-CMP-1086,Influencer,College Students,16,"Facebook, Instagram",45406,2768,1052,747,511695,321.69,1.13,Youth,29-09-2024
+NY-CMP-1087,Social Media,College Students,5,"Instagram, Google",48041,2478,1229,553,311892,511.7,0.1,College Students,20-06-2025
+NY-CMP-1088,Social Media,Working Women,30,"Instagram, Facebook, Email",84207,6175,1941,1352,461032,214.63,0.59,Working Women,29-10-2024
+NY-CMP-1089,Social Media,Youth,16,"Google, WhatsApp",77548,1844,706,226,72772,1072.32,-0.7,Tier 2 City Customers,27-08-2024
+NY-CMP-1090,Email,Premium Shoppers,13,"Instagram, Email",76619,7278,3935,1746,790938,152.82,1.96,Tier 2 City Customers,5/11/2024
+NY-CMP-1091,SEO,Tier 2 City Customers,21,YouTube,37600,2906,1624,1006,690116,253.33,1.71,Premium Shoppers,10/4/2025
+NY-CMP-1092,Social Media,College Students,7,"WhatsApp, Instagram, Google",32302,1239,367,156,124800,1295.52,-0.38,Tier 2 City Customers,12/4/2025
+NY-CMP-1093,Email,Premium Shoppers,9,"Email, YouTube, WhatsApp",11042,459,189,96,60960,2660.53,-0.76,Working Women,25-01-2025
+NY-CMP-1094,Influencer,College Students,18,Google,12916,1058,269,84,23352,725.46,-0.62,Working Women,5/8/2024
+NY-CMP-1095,Paid Ads,Working Women,29,"Google, Facebook, Instagram",73403,7231,1683,766,311762,337.92,0.2,Youth,11/8/2024
+NY-CMP-1096,Paid Ads,Premium Shoppers,18,Instagram,71114,1814,870,350,232750,827.25,-0.2,Youth,10/9/2024
+NY-CMP-1097,Email,Working Women,21,"Email, WhatsApp",96478,3700,1111,711,366876,282.59,0.83,Working Women,23-11-2024
+NY-CMP-1098,SEO,Working Women,21,Email,96239,3852,2172,1568,460992,110.5,1.66,Working Women,19-11-2024
+NY-CMP-1099,Paid Ads,Working Women,22,"Instagram, WhatsApp, Google",15712,2049,698,518,161616,185.06,0.69,Premium Shoppers,24-03-2025
+NY-CMP-1100,SEO,Tier 2 City Customers,5,"Email, Google, Facebook",65961,3729,1011,805,642390,117.32,5.8,Tier 2 City Customers,8/1/2025
+NY-CMP-1101,Influencer,Working Women,24,"Google, Facebook",91963,9000,4091,1250,507500,150.39,1.7,Youth,7/1/2025
+NY-CMP-1102,Social Media,Tier 2 City Customers,10,"Email, Instagram, Facebook",41454,6034,2744,1271,441037,64.77,4.36,Premium Shoppers,20-10-2024
+NY-CMP-1103,Paid Ads,Premium Shoppers,27,"Google, YouTube, WhatsApp",62808,3704,743,431,286615,207.69,2.2,Working Women,21-03-2025
+NY-CMP-1104,Social Media,College Students,16,WhatsApp,44568,5722,2794,2033,742045,119.14,2.06,College Students,31-05-2025
+NY-CMP-1105,SEO,Premium Shoppers,23,"Email, WhatsApp",78393,10859,4614,2346,1381794,48.99,11.02,Working Women,23-08-2024
+NY-CMP-1106,SEO,Youth,16,Google,36778,2873,976,338,240656,547.44,0.3,Tier 2 City Customers,5/11/2024
+NY-CMP-1107,Influencer,Youth,19,Email,29254,3754,1868,942,399408,296.39,0.43,Tier 2 City Customers,27-01-2025
+NY-CMP-1108,SEO,Youth,13,"Facebook, Instagram, YouTube",16762,1911,519,285,180405,1018.44,-0.38,Youth,20-11-2024
+NY-CMP-1109,Influencer,College Students,8,Facebook,30349,1590,535,416,143104,130.39,1.64,Premium Shoppers,23-12-2024
+NY-CMP-1110,Paid Ads,Working Women,6,"WhatsApp, Instagram, Google",93228,5488,2887,1070,739370,249.36,1.77,College Students,29-04-2025
+NY-CMP-1111,Influencer,College Students,16,Google,32725,917,353,262,133096,277.31,0.83,Premium Shoppers,27-05-2025
+NY-CMP-1112,Social Media,Tier 2 City Customers,6,"Facebook, Google",37912,2193,1175,779,555427,69.68,9.23,Working Women,19-06-2025
+NY-CMP-1113,Influencer,Youth,28,"WhatsApp, Facebook, Instagram",84684,6830,3006,2183,1403669,37.23,16.27,Working Women,13-09-2024
+NY-CMP-1114,Social Media,Tier 2 City Customers,27,"Facebook, Instagram, YouTube",51006,7110,2461,769,432178,298.91,0.88,College Students,26-09-2024
+NY-CMP-1115,Influencer,Working Women,10,"WhatsApp, Facebook",71767,10510,5442,3276,1539720,60.15,6.81,Working Women,10/5/2025
+NY-CMP-1116,Paid Ads,College Students,17,"WhatsApp, Facebook, YouTube",92095,9825,4595,2248,1717472,34.81,20.95,Working Women,23-08-2024
+NY-CMP-1117,Paid Ads,Youth,20,Facebook,74063,6065,1600,687,324951,297.63,0.59,College Students,15-12-2024
+NY-CMP-1118,Social Media,Working Women,13,"Instagram, YouTube, Google",36974,3888,2249,752,407584,182.75,1.97,Premium Shoppers,18-10-2024
+NY-CMP-1119,Email,Premium Shoppers,15,YouTube,46818,3423,2031,1219,884994,154.12,3.71,Youth,13-06-2025
+NY-CMP-1120,Influencer,Premium Shoppers,26,YouTube,80082,10026,2337,1352,913952,80.25,7.42,Tier 2 City Customers,17-11-2024
+NY-CMP-1121,Email,Working Women,11,"Instagram, Facebook",18334,2001,1096,868,402752,165.01,1.81,Premium Shoppers,9/1/2025
+NY-CMP-1122,Influencer,Working Women,21,Facebook,74764,8071,3586,1901,885866,155.84,1.99,Premium Shoppers,24-01-2025
+NY-CMP-1123,Social Media,Tier 2 City Customers,29,"Instagram, Email",74129,2626,1462,1163,623368,141.12,2.8,Premium Shoppers,2/4/2025
+NY-CMP-1124,Influencer,Tier 2 City Customers,29,Facebook,27923,2989,1452,817,625822,359.28,1.13,Working Women,19-05-2025
+NY-CMP-1125,Paid Ads,College Students,28,"Instagram, Facebook, Email",19354,637,246,74,33522,1025.97,-0.56,Premium Shoppers,15-12-2024
+NY-CMP-1126,Social Media,Tier 2 City Customers,8,"Instagram, Google",25188,1025,472,187,118558,480.96,0.32,Tier 2 City Customers,26-11-2024
+NY-CMP-1127,Influencer,Premium Shoppers,18,WhatsApp,29617,2372,865,538,368530,168.8,3.06,College Students,20-01-2025
+NY-CMP-1128,SEO,Premium Shoppers,27,"Email, Instagram",25041,3511,991,379,223231,598.76,-0.02,Working Women,4/12/2024
+NY-CMP-1129,Social Media,Working Women,11,"Email, Google",78990,2360,1125,732,453840,347.66,0.78,Youth,21-05-2025
+NY-CMP-1130,Email,Youth,30,Facebook,88461,2327,999,358,100956,410.1,-0.31,Youth,1/5/2025
+NY-CMP-1131,SEO,Tier 2 City Customers,16,Email,16853,656,378,287,80073,1039.27,-0.73,Premium Shoppers,4/6/2025
+NY-CMP-1132,SEO,Working Women,20,"WhatsApp, Google",83484,6219,2837,1554,536130,69.08,3.99,Youth,29-04-2025
+NY-CMP-1133,Paid Ads,Premium Shoppers,18,Facebook,79948,1641,630,499,279440,465.08,0.2,Working Women,24-11-2024
+NY-CMP-1134,SEO,College Students,10,"Email, Facebook",83836,9077,3824,1553,851044,106.54,4.14,Premium Shoppers,10/6/2025
+NY-CMP-1135,Paid Ads,Youth,6,"WhatsApp, Google",82314,11125,4379,1588,1056020,82.69,7.04,Tier 2 City Customers,17-12-2024
+NY-CMP-1136,Email,Youth,13,"Instagram, YouTube, Google",15809,2154,449,305,195200,491.68,0.3,Youth,17-12-2024
+NY-CMP-1137,Influencer,Working Women,21,"Instagram, Facebook",23866,1157,471,295,98530,542.93,-0.38,Premium Shoppers,22-01-2025
+NY-CMP-1138,SEO,Premium Shoppers,19,"WhatsApp, Google",73044,3187,1759,569,385782,184.41,2.68,Tier 2 City Customers,1/8/2024
+NY-CMP-1139,Social Media,Tier 2 City Customers,23,Facebook,26385,2511,940,434,199640,653.94,-0.3,Premium Shoppers,24-02-2025
+NY-CMP-1140,Email,Premium Shoppers,5,"Email, YouTube, Facebook",68710,8506,4996,3472,2249856,38.16,15.98,Tier 2 City Customers,30-05-2025
+NY-CMP-1141,Email,Premium Shoppers,17,"Google, WhatsApp",66210,5609,2776,1529,518331,101.69,2.33,College Students,30-05-2025
+NY-CMP-1142,SEO,College Students,10,"WhatsApp, Google, Email",29278,3293,1504,1073,716764,254.52,1.62,College Students,7/4/2025
+NY-CMP-1143,Email,Premium Shoppers,30,"WhatsApp, Instagram, YouTube",35430,4351,1006,682,403062,165.63,2.57,Youth,12/4/2025
+NY-CMP-1144,SEO,College Students,14,Facebook,13214,530,213,156,118872,1568.28,-0.51,College Students,3/9/2024
+NY-CMP-1145,Influencer,Youth,20,Instagram,54685,5423,2255,1052,724828,279.17,1.47,Youth,12/1/2025
+NY-CMP-1146,Paid Ads,Premium Shoppers,15,Facebook,40445,2689,1201,814,351648,75.35,4.73,College Students,19-11-2024
+NY-CMP-1147,Influencer,Premium Shoppers,18,"Email, Google",45821,2552,965,733,433936,245.74,1.41,Premium Shoppers,6/12/2024
+NY-CMP-1148,Influencer,Youth,9,Instagram,51791,2432,1287,638,304326,421.13,0.13,Premium Shoppers,1/5/2025
+NY-CMP-1149,Influencer,Tier 2 City Customers,20,"Facebook, Email, YouTube",82365,9920,2972,2086,1410136,43.11,14.68,College Students,17-02-2025
+NY-CMP-1150,SEO,Premium Shoppers,7,"Email, YouTube, Facebook",68867,5342,2966,1331,806586,174.47,2.47,Working Women,27-07-2024
+NY-CMP-1151,Influencer,College Students,13,Email,28582,2086,630,411,286467,590.9,0.18,Premium Shoppers,30-03-2025
+NY-CMP-1152,Social Media,Tier 2 City Customers,5,"Facebook, Instagram, WhatsApp",51059,4666,1088,708,489228,175.27,2.94,Tier 2 City Customers,11/12/2024
+NY-CMP-1153,Email,College Students,24,Google,45295,1953,473,282,126618,1037.53,-0.57,Youth,19-12-2024
+NY-CMP-1154,Email,Premium Shoppers,18,Email,17721,1182,499,348,244644,562.61,0.25,College Students,14-01-2025
+NY-CMP-1155,Social Media,Working Women,19,Email,69264,4578,2686,1713,426537,68.25,2.65,Premium Shoppers,17-10-2024
+NY-CMP-1156,Influencer,Youth,20,WhatsApp,59293,3248,1030,375,159375,543.29,-0.22,Youth,11/3/2025
+NY-CMP-1157,Social Media,Working Women,21,"Email, Instagram",95024,4526,2403,1110,698190,208.42,2.02,Premium Shoppers,18-03-2025
+NY-CMP-1158,Social Media,Premium Shoppers,9,Instagram,90608,4315,1453,798,454860,278.28,1.05,College Students,11/4/2025
+NY-CMP-1159,Influencer,Youth,23,"YouTube, Email, WhatsApp",82580,4262,1550,640,503040,111.02,6.08,College Students,28-02-2025
+NY-CMP-1160,Paid Ads,Tier 2 City Customers,30,"YouTube, Instagram, Email",63757,7705,2853,2135,1505175,121.85,4.79,Working Women,30-07-2024
+NY-CMP-1161,Social Media,Working Women,30,"Email, Facebook, Instagram",11624,517,212,107,24182,602.61,-0.62,College Students,15-04-2025
+NY-CMP-1162,Influencer,College Students,14,"Instagram, YouTube",80088,8372,4336,1362,659208,164.45,1.94,Working Women,8/12/2024
+NY-CMP-1163,Email,Tier 2 City Customers,22,Google,19512,1861,467,154,69454,749.47,-0.4,Working Women,6/6/2025
+NY-CMP-1164,SEO,Youth,17,Email,88983,3681,1549,1150,326600,259.94,0.09,Working Women,31-03-2025
+NY-CMP-1165,Social Media,College Students,7,"Facebook, Google, WhatsApp",17111,1661,476,293,221801,926.14,-0.18,Working Women,17-07-2024
+NY-CMP-1166,SEO,College Students,24,"Email, YouTube, Facebook",34872,2630,1328,742,389550,288.64,0.82,College Students,21-04-2025
+NY-CMP-1167,Paid Ads,Tier 2 City Customers,10,Email,25223,1517,427,205,151495,1092.03,-0.32,Premium Shoppers,19-03-2025
+NY-CMP-1168,Social Media,College Students,24,"Instagram, Google",48451,4172,1639,744,575856,194.41,2.98,Tier 2 City Customers,23-08-2024
+NY-CMP-1169,Influencer,College Students,8,WhatsApp,65218,3095,1207,605,203280,157.55,1.13,Youth,30-03-2025
+NY-CMP-1170,SEO,Youth,14,"Instagram, YouTube, WhatsApp",67143,6270,1563,996,367524,172.55,1.14,Premium Shoppers,13-04-2025
+NY-CMP-1171,Paid Ads,College Students,15,"Email, YouTube, Google",52106,6537,3340,2149,530803,87.02,1.84,Tier 2 City Customers,14-06-2025
+NY-CMP-1172,SEO,Premium Shoppers,16,"Google, WhatsApp, YouTube",47178,5999,1619,787,208555,108.26,1.45,Working Women,5/9/2024
+NY-CMP-1173,Social Media,College Students,20,"WhatsApp, Instagram",36818,4147,1962,821,605077,285.43,1.58,Premium Shoppers,30-10-2024
+NY-CMP-1174,Influencer,Tier 2 City Customers,29,"Email, Instagram, Facebook",43779,6115,2546,830,486380,147.54,2.97,Premium Shoppers,10/8/2024
+NY-CMP-1175,Email,Premium Shoppers,24,"Google, Email",86278,8468,2627,894,313794,209.55,0.68,Working Women,6/1/2025
+NY-CMP-1176,Social Media,Premium Shoppers,21,"YouTube, WhatsApp",76182,5221,1153,369,255717,457.74,0.51,Youth,27-05-2025
+NY-CMP-1177,SEO,Working Women,6,"WhatsApp, Instagram, Email",19321,2135,842,668,315296,288.51,0.64,Tier 2 City Customers,31-05-2025
+NY-CMP-1178,Social Media,Tier 2 City Customers,11,Instagram,84073,8987,2501,1391,299065,200.36,0.07,Youth,3/2/2025
+NY-CMP-1179,Paid Ads,College Students,12,WhatsApp,65938,3288,787,503,308842,584.84,0.05,Working Women,14-11-2024
+NY-CMP-1180,Email,Working Women,15,"Email, Instagram",74125,2515,789,398,280988,169.17,3.17,Premium Shoppers,5/3/2025
+NY-CMP-1181,SEO,College Students,14,"YouTube, Facebook, WhatsApp",25506,1598,642,445,208260,621.85,-0.25,Working Women,11/8/2024
+NY-CMP-1182,Email,Tier 2 City Customers,9,"Email, Facebook, WhatsApp",10381,1025,243,165,96690,1097.96,-0.47,College Students,7/4/2025
+NY-CMP-1183,Email,Premium Shoppers,6,WhatsApp,90785,7279,3900,2596,1056572,43.42,8.37,Working Women,31-12-2024
+NY-CMP-1184,Email,Youth,25,"Facebook, YouTube, Email",60728,6390,3134,1810,1134870,110.2,4.69,Youth,27-02-2025
+NY-CMP-1185,Social Media,Working Women,7,Instagram,16698,556,128,57,42123,3507.65,-0.79,Premium Shoppers,12/6/2025
+NY-CMP-1186,Email,Premium Shoppers,20,"Email, YouTube",97242,14022,3371,2067,824733,26.59,14,Premium Shoppers,20-09-2024
+NY-CMP-1187,SEO,Premium Shoppers,24,"Email, Google",90982,3250,1622,1245,750735,142.18,3.24,Tier 2 City Customers,3/2/2025
+NY-CMP-1188,Paid Ads,Working Women,26,"Google, YouTube, Facebook",32842,4033,1838,1444,1121988,191.29,3.06,Tier 2 City Customers,29-11-2024
+NY-CMP-1189,Social Media,Youth,28,"Google, Email, YouTube",32021,3377,1323,474,179172,395.56,-0.04,Premium Shoppers,5/5/2025
+NY-CMP-1190,SEO,Youth,15,YouTube,36796,1581,774,302,89392,638.87,-0.54,College Students,16-11-2024
+NY-CMP-1191,Email,College Students,9,"Google, WhatsApp",12688,1029,579,357,234906,684.03,-0.04,Tier 2 City Customers,7/6/2025
+NY-CMP-1192,Social Media,Working Women,21,Email,84359,11028,3084,1901,1186224,40.64,14.35,Youth,17-05-2025
+NY-CMP-1193,Social Media,Working Women,9,"WhatsApp, YouTube, Facebook",52151,4951,1155,718,464546,255.1,1.54,College Students,18-04-2025
+NY-CMP-1194,Influencer,Premium Shoppers,7,"Email, Instagram",99006,13901,5326,2649,1491387,22.58,23.93,Premium Shoppers,27-05-2025
+NY-CMP-1195,Influencer,College Students,9,Google,16548,1532,717,505,111100,231.54,-0.05,Tier 2 City Customers,22-02-2025
+NY-CMP-1196,SEO,College Students,16,Facebook,82471,5797,3251,1940,1369640,101.63,5.95,Tier 2 City Customers,30-05-2025
+NY-CMP-1197,Social Media,Premium Shoppers,13,"Email, Google, WhatsApp",74621,4124,1052,353,110489,414.62,-0.25,Youth,29-08-2024
+NY-CMP-1198,Paid Ads,Premium Shoppers,12,"Google, Instagram",60166,7720,3135,1375,723250,184.29,1.85,Youth,16-03-2025
