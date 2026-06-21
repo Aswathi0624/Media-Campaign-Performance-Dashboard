@@ -113,11 +113,14 @@ Built a professional three-page interactive dashboard with filters and drill-dow
 
 ## 📸 Dashboard Preview
 
-<img width="1373" height="763" alt="image" src="https://github.com/user-attachments/assets/13dedef8-71f6-44a9-9ff6-8e3aa9c95305" />
+<img width="1378" height="771" alt="Media campaign performance" src="https://github.com/user-attachments/assets/c88b75f5-8eb1-4291-9dae-d42a9e3ab3e6" />
 
-<img width="1367" height="767" alt="image" src="https://github.com/user-attachments/assets/163885d8-fd7f-4ef8-9a39-41962f94393a" />
 
-<img width="1363" height="738" alt="image" src="https://github.com/user-attachments/assets/030f7005-2953-40d6-a61a-ec79c8f99a4a" />
+<img width="1371" height="741" alt="Customer insights" src="https://github.com/user-attachments/assets/6eefb4b1-b632-4f2e-b857-9053503d2cbe" />
+
+
+<img width="1381" height="772" alt="campaign performance" src="https://github.com/user-attachments/assets/075b0840-f661-4591-b5e1-5a762f7386f6" />
+
 
 ## 👩‍💻 Author
 
